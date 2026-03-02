@@ -4,7 +4,7 @@ import {RouterLink} from "vue-router";
 
 <template>
   <nav class="navbar navbar-expand-sm bg-body-tertiary col-xs-12">
-    <span class="navbar-brand px-1"> <font-awesome-icon icon="clipboard-list" /> TodoList </span>
+    <span class="navbar-brand px-1"> <font-awesome-icon icon="clipboard-list" /> TodoLis </span>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
             aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
